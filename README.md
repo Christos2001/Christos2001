@@ -6,6 +6,8 @@
   
 
 ### <div align="center">I'm Christos, a full-stack developer 👨‍💻</div>  
+
+## <div align="center"> Currently working on a full stack Business Operations & Staff Management System app </div>
   
 
 <br/>  
