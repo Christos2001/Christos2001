@@ -33,7 +33,6 @@
         <br />
         <img src="https://img.shields.io/badge/-Backend-red?style=flat-square" alt="Backend Header" />
         <br /><br />
-        <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" /></a>
         <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" /></a>
         <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" /></a>
         <br/>
